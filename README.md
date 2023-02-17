@@ -1,7 +1,7 @@
 # gh-AngryAi
-Bunch of predefined NPC behavior functions and npc/event management system
+- Bunch of predefined NPC behavior functions and npc/event management system
 [![MasterHead](https://cdn.discordapp.com/attachments/1009569570782195732/1076111898468171827/rainbow-loading-bar.gif)](https://google.com/)
-It's not optimized by any mean. i made it to just test something in my server.
+- It's not optimized by any mean. i made it to just test something in my server.
 event template
 
 ```lua
